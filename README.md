@@ -23,14 +23,24 @@ React, Redux, Redux Thunk, Axios, CSS / Tailwind, JSON Server (mock backend), Vi
 
 ## 💻 Kurulum
 
-```bash
-git clone https://github.com/Rumeysapat/yemek-sepeti-clone.git
-cd yemek-sepeti-clone
-npm install
-npx json-server --watch db.json --port 4000   # Mock backend
+
+git clone https://github.com/Rumeysapat/yemek-sepeti-clone.git</br>
+cd yemek-sepeti-clone</br>
+npm install</br>
+npx json-server --watch db.json --port 4000   # Mock backend</br>
 npm run dev
 
 
+
+---
+
+<p align="center">
+  <img src="https://github.com/Rumeysapat/YemekSepetiClone/blob/master/assets/ys1.png" width="300"/>
+  <img src="https://github.com/Rumeysapat/YemekSepetiClone/blob/master/assets/ys2.png" width="300"/>
+  <img src="https://github.com/Rumeysapat/YemekSepetiClone/blob/master/assets/ys3.png" width="300"/>
+</p>
+
+---
 
 
 
