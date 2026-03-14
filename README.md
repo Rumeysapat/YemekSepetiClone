@@ -30,9 +30,10 @@ npm install</br>
 npx json-server --watch db.json --port 4000   # Mock backend</br>
 npm run dev
 
-
-
 ---
+
+## 💻 Resimler
+
 
 <p align="center">
   <img src="https://github.com/Rumeysapat/YemekSepetiClone/blob/master/assets/ys1.png" width="300"/>
@@ -41,6 +42,10 @@ npm run dev
 </p>
 
 ---
-
-
+## 💻 Demo
+<p align="center">
+  <a href="assets/yemeksepeti_noaudio.mp4">
+    <img src="assets/ys1.png" width="400"/>
+  </a>
+</p>
 
